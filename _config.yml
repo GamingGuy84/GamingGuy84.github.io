@@ -1,0 +1,5 @@
+title: Notwork
+description: Notwork is a lightweight Roblox networking library that adds type safety, schema validation, and compact binary serialization to RemoteEvents, without changing how you use them.
+theme: just-the-docs
+
+url: https://gamingguy84/github.io/Notwork/
